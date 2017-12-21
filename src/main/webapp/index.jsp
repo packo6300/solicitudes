@@ -1,6 +1,5 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-   "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 
 <html>
     <head>
@@ -17,7 +16,7 @@
                 <div class="sidebar-nav navbar-collapse">
                     <ul class="nav" id="side-menu">
                         <li class="sidebar-search" style="background-color: #01579a;">
-                            <img src="bootstrap/img/avance-logo.png"  class="img-responsive">
+                            <img src="http://www.arpon.com.mx/wp-content/uploads/2017/04/pos.png"  class="img-responsive img-circle img-thumbnail ">
                             <h3 style="font-family: 'Jura', sans-serif;">
                                     <a data-toggle="modal" data-target="#modal-about" style="color: white;font-size: 18px;"><i class=""></i>Solicitudes 1.0</a>
                             </h3>
@@ -50,7 +49,7 @@
 
     </div>
     </body>
-    <script type="text/javascript" src="bootstrap/js/jQuery-2.1.4.js"></script>
+    <script type="text/javascript" src="bootstrap/js/jquery-2.0.2.min.js"></script>
     <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
     <script type="text/javascript" src="bootstrap/js/sb-admin-2.js"></script>
     <script type="text/javascript" src="bootstrap/js/metisMenu.min.js"></script>
